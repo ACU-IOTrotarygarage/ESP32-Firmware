@@ -1,0 +1,17 @@
+{
+    "name": "FirmwareSerial",
+    "version": "3.6.0",
+    "keywords": [
+      "serial", "io", "FirmwareSerial"
+    ],
+    "description": "Implementation of software serial with hardware serial fallback for ESP8266 and ESP32.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/arendst/Firmware/lib/FirmwareSerial"
+    },
+    "frameworks": "arduino",
+    "platforms": [
+      "espressif8266", "espressif32"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "FirmwareModbus",
+    "version": "3.6.0",
+    "keywords": [
+      "serial", "io", "FirmwareModbus"
+    ],
+    "description": "Modbus wrapper for FirmwareSerial.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/arendst/Firmware/lib/FirmwareModbus"
+    },
+    "frameworks": "arduino",
+    "platforms": ["espressif8266", "espressif32"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "rc-switch",
+  "description": "Use ESP8266/ESP32 to operate remote radio controlled devices",
+  "keywords": "rf, radio, wireless",
+  "authors":
+  {
+    "name": "Theo Arends and Mahmoud Shams El-Din"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/arendst/Firmware.git"
+  },
+  "version": "1.0.0",
+  "frameworks": [
+        "arduino"
+  ],
+  "platforms": "*"
+}
